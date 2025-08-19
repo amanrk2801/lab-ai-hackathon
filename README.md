@@ -176,3 +176,11 @@ JWT_SECRET=your_super_secret_jwt_key_here_make_it_long_and_random
 - Always use HTTPS in production
 - Sanitize user inputs
 - Implement rate limiting for production
+
+---
+
+## 🏅 Certificate
+
+This project was built and presented during the Lab AI Hackathon.
+
+![AI Hackathon Certificate](https://github.com/amanrk2801/lab-ai-hackathon/raw/main/ai-certificate.jpg)
